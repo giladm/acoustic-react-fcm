@@ -25,7 +25,6 @@ project.xcworkspace
 # BUCK
 buck-out/
 \.buckd/
-*.keystore
 
 # fastlane
 #
