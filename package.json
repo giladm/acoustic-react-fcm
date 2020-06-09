@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "react-native-acoustic-mobile-push": "file:../../workspace/mce/sdk/react/react-3.8.0/plugins/react-native-acoustic-mobile-push",
+    "react-native-acoustic-mobile-push": "file:../plugins/react-native-acoustic-mobile-push",
     "react-native-firebase": "^5.6.0"
   },
   "devDependencies": {
