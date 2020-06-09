@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043767998053",
+    "firebase_url": "https://reactxyz.firebaseio.com",
+    "project_id": "reactxyz",
+    "storage_bucket": "reactxyz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043767998053:android:f6e494a777d7a2ae47788c",
+        "android_client_info": {
+          "package_name": "com.reactxyz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043767998053-nmdrttdj25ordljeaf3pav7sruq9a0o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31jyfckt3aqvDPBD_FXKxMJbgCnQZVq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043767998053-nmdrttdj25ordljeaf3pav7sruq9a0o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

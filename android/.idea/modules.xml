@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="reactXYZ/app" />
+      <module fileurl="file://$USER_HOME$/workspace/mce/sdk/react/react-3.8.0/plugins/react-native-acoustic-mobile-push/android/react-native-acoustic-mobile-push.iml" filepath="$USER_HOME$/workspace/mce/sdk/react/react-3.8.0/plugins/react-native-acoustic-mobile-push/android/react-native-acoustic-mobile-push.iml" group="reactXYZ/react-native-acoustic-mobile-push" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" group="reactXYZ/react-native-firebase" />
+      <module fileurl="file://$PROJECT_DIR$/reactXYZ.iml" filepath="$PROJECT_DIR$/reactXYZ.iml" group="reactXYZ" />
+    </modules>
+  </component>
+</project>
